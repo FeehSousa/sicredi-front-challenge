@@ -21,7 +21,7 @@ const useStyles = makeStyles(
     actions: {
       color: theme.palette.text.secondary,
     },
-    textPrimary: {
+    textPrimary: { 
       color: theme.palette.text.primary,
     },
   }),
