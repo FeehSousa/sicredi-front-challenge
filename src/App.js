@@ -25,7 +25,7 @@ const useStyles = makeStyles(
       color: theme.palette.text.primary,
     },
   }),
-  { defaultTheme },
+  { defaultTheme }, 
 );
 
 const rows = [
